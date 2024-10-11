@@ -32,7 +32,7 @@
             </li>
         </ul>
 
-        <p>To learn more about car performance, visit <a href="https://www.motortrend.com/" target="_blank"> Its not the car it is the Driver</a>.</p>
+        <p>To learn more about car performance, visit <a href="https://www.motortrend.com/" target="_blank"> Motor Trend</a>.</p>
     </main>
      </Body>
      <p id="copyright" class="Base_color">Copyright 2024</p>
