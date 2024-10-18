@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en"> 
     <head> 
         <link rel="stylesheet" href ="styles.css" >
@@ -5,9 +6,9 @@
 </head>
 <body>
      <main>
-        <h1>Car Performance Specifications</h1>
+        <h1 class="Title_Line">Car Performance Specifications</h1>
 
-        <h2>Car List</h2>
+        <h2 id="Car_Header">Car List</h2>
         <p>Here are my cars with their horsepower, torque, and 0-60 mph times.</p>
         <ul>
             <li>
