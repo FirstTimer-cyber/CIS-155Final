@@ -1,3 +1,34 @@
+/* TYPE Selector */
+
 body {
-    color:rgb(255, 0, 174);
+    color:#362a56;
 }
+body{
+    background-color: #faebd7;
+}
+
+ul{
+    color: #000000;
+}
+/* ID SELECTOR */
+#Car_Header{
+    color:#8a2be2
+}
+
+/* CLASS SELECTOR */
+.Title_Line {
+    color:#ff7f50
+}
+
+.Title_Line {
+    font-family:fantasy;
+    font-weight: 1900;
+    font-weight: lighter;
+}
+
+p{
+    line: height 2em;
+}
+/* Relational Selector */
+main ul { font-size: 100%;}
+li p { color:#a52a2a ;}
