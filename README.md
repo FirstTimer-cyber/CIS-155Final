@@ -1,5 +1,3 @@
-<!doctype html>
-
 <title> Basic Selectors</title>
 <Body>
      <main>
