@@ -1,11 +1,14 @@
+<html lang="en"> 
+    <head> 
+        <link rel="stylesheet" href ="styles.css" >
 <title> Basic Selectors</title>
-<Body>
+</head>
+<body>
      <main>
         <h1>Car Performance Specifications</h1>
 
-        <p>Here are my cars with their horsepower, torque, and 0-60 mph times.</p>
-
         <h2>Car List</h2>
+        <p>Here are my cars with their horsepower, torque, and 0-60 mph times.</p>
         <ul>
             <li>
                 <h3>2001 Ford Mustang GT Bullitt</h3>
@@ -32,5 +35,6 @@
 
         <p>To learn more about car performance, visit <a href="https://www.motortrend.com/" target="_blank"> Motor Trend</a>.</p>
     </main>
-     </Body>
-     <p id="copyright" class="Base_color">Copyright 2024</p>
+     </body>
+     <p>Copyright 2024</p>
+     </html>
