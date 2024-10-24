@@ -1,22 +1,26 @@
 /* TYPE Selector */
 
 body {
-    color:#362a56;
+    color:#ff5500;
+    text-align: center;
 }
-body{
-    background-color: #faebd7;
+.Index22{
+    background: url("imgs/CF.jfif") ;
+    size-adjust: 2em;
 }
-
+main{
+    text-align: center;
+}
 ul{
-    color: #000000;
+    color: #fd0101;
 }
 /* ID SELECTOR */
-#Car_Header{
-    color:#8a2be2
+.Car_S{
+    color: #ff0404;
 }
-
 /* CLASS SELECTOR */
 .Title_Line {
+    
     color:#ff7f50
 }
 
@@ -26,9 +30,52 @@ ul{
     font-weight: lighter;
 }
 
-p{
-    line: height 2em;
+p{  outline: height 2em;
 }
 /* Relational Selector */
 main ul { font-size: 100%;}
-li p { color:#a52a2a ;}
+li p { color:#ff0000 ;}
+
+.box{
+    color: #f60303;
+    text-align: center;
+    padding: 1em 1em;
+    margin: 1em 1em;
+    border: 3em outset rgb(163, 21, 21);
+    border-radius: 30em;
+}
+
+#GT{
+    float: left;
+    width: 450px;
+    border-radius: 50px;
+}
+#Fx4{
+    float: right;
+    width: 450px;
+    border-radius: 50px;
+}
+#A5{
+    clear:both;
+    float: left;
+    width: 450px;
+    border-radius: 50px;
+}
+#Cal250{
+    float: left;
+    Width: 600
+}
+#Mustang_1970{
+    float:right;
+    width: 600px;
+}
+#Car_S{
+    font-size: 25px;
+    color: #f60303;
+}
+footer{
+    clear: both;
+}
+.Car_Specs_B{
+    background-image:url(imgs/oil.jfif) ;
+}
