@@ -10,11 +10,11 @@
         <ul>
             <li id="Cal250" class="box">
                 
-                <img src="imgs/Cal250.jfif" alt="Ferrari Cal 250" width="300">
+                <img src="Cal250.jfif" alt="Ferrari Cal 250" width="300">
             </li>
             <li id="Mustang_1970" class="box">
                 
-                <img src="imgs/Mustang1970.jfif" alt="1970 Mustang" width="300">
+                <img src="Mustang1970.jfif" alt="1970 Mustang" width="300">
             </li>
         </ul>
     </main>
