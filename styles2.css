@@ -74,6 +74,7 @@ li p { color:#ff0000 ;}
 #Car_S{
     font-size: 25px;
     color: #f60303;
+    aline: center;
 }
 footer{
     clear: both;
