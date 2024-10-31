@@ -64,6 +64,7 @@ li p { color:#ff0000 ;}
     border-radius: 50px;
 }
 #F150{
+    clear:both;
     float: right;
     width: 450px;
     border-radius: 50px;
