@@ -17,6 +17,8 @@ ul{
 /* ID SELECTOR */
 .Car_S{
     color: #ff0404;
+    clear: both;
+    
 }
 /* CLASS SELECTOR */
 .Title_Line {
@@ -79,7 +81,5 @@ footer{
 .Car_Specs_B{
     background-image:url(imgs/oil.jfif) ;
 }
-#Car_S{
-    clear: both;
-}
+
     
