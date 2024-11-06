@@ -1,11 +1,11 @@
 /* TYPE Selector */
 
 body {
-    color:#ff5500;
+    color:#222020;
     text-align: center;
 }
 .Index22{
-    background-image:url(imgs/Checkered_Flag.jfif);
+    background: url("imgs/BW.jfif") ;
     size-adjust: 2em;
 }
 main{
@@ -14,16 +14,10 @@ main{
 ul{
     color: #fd0101;
 }
-/* ID SELECTOR */
-.Car_S{
-    color: #ff0404;
-    clear: both;
-    
-}
 /* CLASS SELECTOR */
 .Title_Line {
     
-    color:#ff7f50
+    color:#b91010
 }
 
 .Title_Line {
@@ -36,14 +30,14 @@ p{  outline: height 2em;
 }
 /* Relational Selector */
 main ul { font-size: 100%;}
-li p { color:#ff0000 ;}
+li p { color:#1c1a1a ;}
 
 .box{
-    color: #f60303;
+    color: #1d1d1d;
     text-align: center;
     padding: 1em 1em;
     margin: 1em 1em;
-    border: 3em outset rgb(163, 21, 21);
+    border: 3em outset rgb(234, 27, 27);
     border-radius: 30em;
 }
 
@@ -63,30 +57,45 @@ li p { color:#ff0000 ;}
     width: 450px;
     border-radius: 50px;
 }
-#F150{
-    clear:both;
-    float: right;
-    width: 450px;
-    border-radius: 50px;
+div#hp{
+    display: flex;
+flex-direction: row;
 }
 #Cal250{
-    float: left;
-    Width: 600
+    border-radius: 1em;
+   margin-left: 1em;
+   
 }
 #Mustang_1970{
-    float:right;
-    width: 600px;
+    float: right;
+    border-radius: 1em;
+   margin-right: 1em;
+  
 }
 #Car_S{
     font-size: 25px;
-    color: #f60303;
-    aline: center;
+    color: #000000;
 }
 footer{
     clear: both;
 }
 .Car_Specs_B{
- 
+    background: url("imgs/BW.jfif") ;
+}
+div.NL{
+    border-radius: 1em;
+    justify-content:space-around;
+display: flex;
+flex-direction: row;
+}
+.fc{
+    background-image:url(imgs/BW.jfif);
+}
+#RWB{
+    float: left;
+}
+#M67{
+ float: right
 }
 
 
