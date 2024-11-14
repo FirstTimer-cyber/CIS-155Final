@@ -96,7 +96,7 @@ display: flex;
 flex-direction: row;
 }
 .fc{
-    background-image:url(imgs/BW.jfif);
+     background: url("imgs/BW.jfif") ;
 }
 #RWB{
     float: left;
