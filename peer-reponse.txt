@@ -2,5 +2,4 @@
 
  Fixed that by changing a capital I to a i for index.html
 
-The border elements on the Car Specs page all collide with each other. It looks like you just made the border dimensions for the '95 F150 too big on accident.
-
+Your Nav menu is simple, but it gets a little bit bunched up on 2 of your pages. And it looks like you changed something in car_specs.html and page_3.html that didn't get updated in index.html.
