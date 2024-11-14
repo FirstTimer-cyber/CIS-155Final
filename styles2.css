@@ -101,7 +101,7 @@ flex-direction: row;
 }
 // <uniquifier>: Use a unique and descriptive class name
 
-.edu-au-vic-wa-nt-pre-<uniquifier> {
+.edu-au-vic-wa-nt-pre-<MR> {
   font-family: "Edu AU VIC WA NT Pre", cursive;
   font-optical-sizing: auto;
   font-weight: 600;
