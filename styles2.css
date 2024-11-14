@@ -56,11 +56,6 @@ li p { color:#1c1a1a ;}
     float: left;
     width: 450px;
     border-radius: 50px;
-#F150{
-    clear:both;
-    float: left;
-    width: 450px;
-    border-radius: 50px;
 }
 div#hp{
     display: flex;
@@ -102,11 +97,6 @@ flex-direction: row;
 #M67{
  float: right
 }
-div.In{
-    border-radius: 1em;
-    justify-content:space-around;
-display: flex;
-flex-direction: row;
-}
+
 
     
