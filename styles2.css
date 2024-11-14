@@ -57,6 +57,11 @@ li p { color:#1c1a1a ;}
     width: 450px;
     border-radius: 50px;
 }
+#F150{
+    clear:both;
+    float: right;
+    width: 450px;
+    border-radius: 50px;
 div#hp{
     display: flex;
 flex-direction: row;
