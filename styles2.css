@@ -98,6 +98,14 @@ flex-direction: row;
 #M67{
  float: right
 }
+// <uniquifier>: Use a unique and descriptive class name
+
+.edu-au-vic-wa-nt-pre-<uniquifier> {
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
 
 
     
