@@ -83,6 +83,7 @@ footer{
     background: url("imgs/BW.jfif") ;
 }
 div.NL{
+    clear: both;
     border-radius: 1em;
     justify-content:space-around;
 display: flex;
