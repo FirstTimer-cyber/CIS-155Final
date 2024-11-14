@@ -1,4 +1,6 @@
  Clicking on the "Home Page" button from the Car Specs page leads to a broken link. It looks like this is just from a typo when linking the index.html page to the "Home Page" button.
 
- The border elements on the Car Specs page all collide with each other. It looks like you just made the border dimensions for the '95 F150 too big on accident.
+ Fixed that by changing a capital I to a i for index.html
+
+The border elements on the Car Specs page all collide with each other. It looks like you just made the border dimensions for the '95 F150 too big on accident.
 
