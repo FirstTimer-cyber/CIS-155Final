@@ -3,3 +3,5 @@
  Fixed that by changing a capital I to a i for index.html
 
 Your Nav menu is simple, but it gets a little bit bunched up on 2 of your pages. And it looks like you changed something in car_specs.html and page_3.html that didn't get updated in index.html.
+
+I fixed that by getting rid of the code that shifted the navagation list acrossed the whole page.
