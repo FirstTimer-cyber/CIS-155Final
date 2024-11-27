@@ -102,7 +102,7 @@ flex-direction: row;
     float: left;
 }
 #M67{
- float: right
+ float: right;
 }
 // <uniquifier>: Use a unique and descriptive class name
 
@@ -112,6 +112,8 @@ flex-direction: row;
   font-weight: 600;
   font-style: normal;
 }
-
+.bs{
+    float: right;
+}
 
     
